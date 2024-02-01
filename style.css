@@ -6,7 +6,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgb(0,0,0,0.5)50%,rgb(0,0,0,0.5)50%), url(tree.jpg);
+    background: linear-gradient(to top, rgb(0,0,0,0.5)50%,rgb(0,0,0,0.5)50%), url(the\ pic.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -90,8 +90,8 @@ ul li a{
 .btn{
     width: 100px;
     height: 40px;
-    background: #c25d0a;
-    border: 2px solid #c25d0a;
+    background: #4a0ac2;
+    /* border: 2px solid #c25d0a; */
     margin-top: 13px;
     color: aliceblue;
     font-size: 15px;
